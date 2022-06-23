@@ -1,9 +1,9 @@
 #include <iostream>
 using namespace std;
-int ain()
+int main()
 {
 
-    cout << "hello world" << endl;
+    cout << "Hello world" << endl;
     system("pause");
 
     return 0;
